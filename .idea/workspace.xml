@@ -2,45 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="240ad83a-48a9-4bb3-99ad-321e0086b5f3" name="Changes" comment="Первый коммит">
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/backend/backend.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/backend/middleware/ip.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/backend/package-lock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/backend/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/backend/scripts/seed.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/backend/src/app.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/backend/src/config.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/backend/src/database.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/backend/src/middleware/ip.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/backend/src/routes/voting.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/backend/src/server.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/backend/src/services/votingService.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/backend/tsconfig.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/frontend.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/package-lock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/src/App.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/src/api.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/src/components/ideaCard.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/src/components/index.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/src/components/loader.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/src/components/notification.tsx" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/frontend/src/components/votingHeader.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/src/hooks.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/src/index.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/src/main.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/src/styles/components.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/tsconfig.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/vite.config.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/shared/types.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/voting-app.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -73,6 +35,7 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
     "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable",
     "ts.external.directory.path": "D:\\xampp\\htdocs\\voting-app\\backend\\node_modules\\typescript\\lib"
   },
   "keyToStringList": {
@@ -119,8 +82,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1759805322995</updated>
-      <workItem from="1759805324601" duration="2780000" />
+      <workItem from="1759805324601" duration="3203000" />
     </task>
+    <task id="LOCAL-00001" summary="Первый коммит">
+      <created>1759808207364</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1759808207364</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
