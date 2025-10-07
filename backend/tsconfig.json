@@ -1,0 +1,25 @@
+{
+  "compilerOptions": {
+    "target": "ES2020",
+    "module": "commonjs",
+    "lib": ["ES2020"],
+    "outDir": "./dist",
+    "rootDir": "./src",
+    "strict": true,
+    "esModuleInterop": true,
+    "skipLibCheck": true,
+    "forceConsistentCasingInFileNames": true,
+    "resolveJsonModule": true,
+    "baseUrl": "./src",  // ← ВАЖНО: базовая папка
+    "paths": {
+      "@ip": ["middleware/ip.ts"],
+      "@voting": ["routes/voting.ts"],
+      "@votingService": ["services/votingService.ts"],
+      "@types": ["../../shared/types.ts"],
+      "@database": ["database.ts"],
+      "@config": ["config.ts"]
+    }
+  },
+  "include": ["src/**/*"],
+  "exclude": ["node_modules", "dist"]
+}
